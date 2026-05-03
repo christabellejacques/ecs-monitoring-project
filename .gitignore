@@ -1,0 +1,14 @@
+# AWS credentials and IDs
+.aws/
+*.pem
+*.key
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv
+venv/
+
+# OS
+.DS_Store
