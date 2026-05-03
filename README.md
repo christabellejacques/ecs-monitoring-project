@@ -25,8 +25,6 @@ Build a real system that:
 - ✅ Auto-restarts on failure
 - ✅ Tests failure scenarios
 
-**Why this matters:** Most engineers learn "systems fail" the hard way. This project teaches operational thinking: design for failure recovery, monitor what matters, keep humans in the loop.
-
 ---
 
 ## 🏗️ Architecture
@@ -474,12 +472,6 @@ This project demonstrates:
 
 This isn't just a project. It's learning how production systems actually work.
 
-**Most engineers learn this in their first on-call shift at 3am.**
-
-You're learning it proactively, with your own system, where failure doesn't matter.
-
-That's the difference between junior and thoughtful junior.
-
 ---
 
 ## 📞 Troubleshooting
@@ -509,7 +501,7 @@ This is a learning project. Use it for educational purposes.
 
 ## 👨‍💻 Author
 
-Built as a learning project to understand ECS, health checks, and operational resilience.
+Christabelle Jacques
 
 ---
 
